@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Wheel.css';
+import './Styles/Wheel.css';
 
 export default class Wheel extends Component {
     constructor(props) {
