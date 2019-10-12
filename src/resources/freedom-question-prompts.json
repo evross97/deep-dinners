@@ -1,0 +1,74 @@
+{
+  "@session": "Freedom",
+  "@lang": "en",
+  "metadata": {
+    "session": {
+      "narrative": "Freedom"
+    },
+    "description": {
+      "narrative": "Links to session 4 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin."
+    }
+  },
+  "codelist-items": [
+    {
+      "number": "1",
+      "question": {
+        "narrative": "How can we become free?"
+      },
+      "prompt": {
+        "scripture": "Romans 5:1 \"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery\"",
+        "narrative": "Scripture tells us that true freedom can only be found in Christ. That through His death and resurrection we have been freed from the law of sin and death - set free from judgement and the need to prove our worth."
+      }
+    },
+    {
+      "number": "2",
+      "question": {
+        "narrative": "What is stopping you from being free?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "3",
+      "question": {
+        "narrative": "How is your freedom impacted by your current lifestyle?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "4",
+      "question": {
+        "narrative": "Does religion limit people's freedom?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "5",
+      "question": {
+        "narrative": "What's the relationship between freedom and responsibility?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "6",
+      "question": {
+        "narrative": "What does it look like to be truly free?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    }
+  ]
+}

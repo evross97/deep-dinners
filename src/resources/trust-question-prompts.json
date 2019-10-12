@@ -1,0 +1,74 @@
+{
+  "@session": "Trust",
+  "@lang": "en",
+  "metadata": {
+    "session": {
+      "narrative": "Trust"
+    },
+    "description": {
+      "narrative": "Links to session 2 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin."
+    }
+  },
+  "codelist-items": [
+    {
+      "number": "1",
+      "question": {
+        "narrative": "Is there something on Earth we can truly trust?"
+      },
+      "prompt": {
+        "scripture": "With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught\".",
+        "narrative": "We trust historical account for two reasons 1) how near to the event they were written 2) how many copies survive. There are less than 10 surviving copies of Plato's writing, the earliest of which is 1400 years older than Plato. The New Testament was written within 30 -50 years of Jesus' death and there are 24,000+ copies."
+      }
+    },
+    {
+      "number": "2",
+      "question": {
+        "narrative": "What would it take for your trust in something to be broken?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "3",
+      "question": {
+        "narrative": "What would it take for you to trust someone?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "4",
+      "question": {
+        "narrative": "How would you prove to someone that your words can be trusted?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "5",
+      "question": {
+        "narrative": "When you've broken someone's trust, how could you restore it?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "6",
+      "question": {
+        "narrative": "How easy do you find it to trust?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    }
+  ]
+}

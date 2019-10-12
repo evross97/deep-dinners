@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import "./App.css";
 import CreateJoinScreen from "../src/components/CreateJoinScreen";
-import WheelView from "../src/components/WheelView"
+import WheelView from "../src/components/WheelView";
 
 function App() {
   return (
@@ -12,10 +12,9 @@ function App() {
         <Route path="/join">
           <CreateJoinScreen />
         </Route>
-          <Route path="/spin">
-              <WheelView />
-          </Route>
-
+        <Route path="/spin">
+          <WheelView />
+        </Route>
       </Switch>
     </Router>
   );
