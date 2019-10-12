@@ -1,0 +1,72 @@
+<codelist session="Generosity" xml:lang="en" >
+    <metadata>
+        <session>
+            <narrative>Generosity</narrative>
+        </session>
+        <description>
+            <narrative>Links to session 3 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin.<narrative>
+        </description>
+      </metadata>
+    <codelist-items>
+        <codelist-item>
+            <number>1</number>
+            <question>
+                <narrative>What gift of generosity has impacted you the most?</narrative>
+            </question>
+            <prompt>
+                <scripture>Luke 19:5 "[Jesus]said to him 'Zacchaeus, come down immediately. I must stay at your house today.' So he came down at once and welcomed him gladly".</scripture>
+                <narrative>God is infinitely generous to us, in the example of Zacchaeus he is impacted by Jesus' generous and underserved friendship. In response Zacchaeus' heart is changed and he come to love and serve the Lord.</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item>
+            <number>2</number>
+            <question>
+                <narrative>What are the personal benefits to being generous?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item>
+            <number>3</number>
+            <question>
+                <narrative>How much generosity do you receive per week?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item>
+            <number>4</number>
+            <question>
+            </prompt>
+                <narrative>What can you be generous in?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+        </codelist-item>
+        <codelist-item>
+            <number>5</number>
+            <question>
+                <narrative>Is there such a thing as being too generous?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item>
+            <number>6</number>
+            <question>
+                <narrative>Are there any selfless good deeds?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+    </codelist-items>
+</codelist>
