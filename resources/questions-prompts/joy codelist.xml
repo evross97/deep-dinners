@@ -1,0 +1,21 @@
+<codelist session="Joy" xml:lang="en" >
+    <metadata>
+        <session>
+            <narrative>Joy</narrative>
+        </session>
+        <description>
+            <narrative>Links to session 7 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin.<narrative>
+        </description>
+      </metadata>
+    <codelist-items>
+        <codelist-item>
+            <number>1</number>
+            <question>
+                <narrative>How do you know if you are happy?</narrative>
+            </question>
+            <prompt>
+                <scripture>Isaiah 12:3 "With joy you will draw water from the wells of salvation".</scripture>
+                <narrative>Scripture teaches us that joy comes from the Lord, that we can ever delight in God. Whilst happiness is circumstantial, we can be continually filled with joy.</narrative>
+            </prompt>
+        </codelist-item>
+    </codelist>
