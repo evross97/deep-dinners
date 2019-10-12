@@ -22,7 +22,7 @@ const WheelView = () => {
         {
             id:'2',
             icon: <FontAwesomeIcon icon={faHandshake} size={"3x"}/>,
-            question: 'What gift of generosity has impacted you the most?'
+            question: 'Is there something on Earth we can truly trust?'
         },
         {
             id:'3',
@@ -41,7 +41,7 @@ const WheelView = () => {
         },
         {
             id:'6',
-            icon: <FontAwesomeIcon icon={faHands} size={"3x"}/>,
+            icon: <FontAwesomeIcon icon={faLeaf} size={"3x"}/>,
             question: 'What makes you feel alive?'
         },
         {
