@@ -1,0 +1,70 @@
+<codelist session="Trust" xml:lang="en" >
+    <metadata>
+        <session>
+            <narrative>Trust</narrative>
+        </session>
+        <description>
+            <narrative>Links to session 2 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin.<narrative>
+        </description>
+      </metadata>
+    <codelist-items>
+        <codelist-item>
+            <number>1</number>
+            <question>
+                <narrative>Is there something on Earth we can truly trust?</narrative>
+            </question>
+            <prompt>
+                <scripture>With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught".</scripture>
+                <narrative>We trust historical account for two reasons 1) how near to the event they were written 2) how many copies survive. There are less than 10 surviving copies of Plato's writing, the earliest of which is 1400 years older than Plato. The New Testament was written within 30 -50 years of Jesus' death and there are 24,000+ copies.</narrative>
+        <codelist-item>
+            <number>2</number>
+            <question>
+                <narrative>What would it take for your trust in something to be broken?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item>
+            <number>3</number>
+            <question>
+                <narrative>What would it take for you to trust someone?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item>
+            <number>4</number>
+            <question>
+            </prompt>
+                <narrative>How would you prove to someone that your words can be trusted?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+        </codelist-item>
+        <codelist-item>
+            <number>5</number>
+            <question>
+                <narrative>When you've broken someone's trust, how could you restore it?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item
+            <number>6</number>
+            <question>
+                <narrative>How easy do you find it to trust?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+    </codelist-items>
+</codelist>
