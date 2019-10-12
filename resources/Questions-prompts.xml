@@ -1,0 +1,72 @@
+<codelist question="Goodness" xml:lang="en" >
+    <metadata>
+        <question>
+            <narrative>Goodness</narrative>
+        </question>
+        <prompt>
+            <narrative>Links to session 1 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin.<narrative>
+        </prompt>
+      </metadata>
+    <codelist-items>
+        <codelist-item >
+            <number>1</number>
+            <question>
+                <narrative>Is there such a thing as perfect love?</narrative>
+            </question>
+            <prompt>
+                <scripture>1 John 4:7 and 18 "God is love... There is no fear in love. But perfect love drives out fear, because fear has to do with punishment".</scripture>
+                <narrative>Scripture tells us that God is love, and that this love is perfect. It never lets us down, never forgets never diminishes but is ever strong and ever lasting. We have nothing to fear.</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item >
+            <number>2</number>
+            <question>
+                <narrative>What is goodness?</narrative>
+            </question>
+            <prompt>
+                <scripture>Micah 6:8 "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God".</scripture>
+                <narrative>Scripture lays out for us what being 'good' looks like. As we replciate God's heart for the world we are to be just, merciful and humble in all ways with all people. </narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item >
+            <number>3</number>
+            <question>
+                <narrative>How would you convince a jury that you are a good person?</narrative>
+            </question>
+            <prompt>
+                <scripture>James 2:18 "But someone will say, 'You have faith; I have deeds.' Show me your faith without deeds, and I will show you my faith by my deeds".</scripture>
+                <narrative>Scripture challenges us that there needs to be a practical outpouring of our faith in our lives. Can you demonstrate how the goodness of God is overflowing in your life to others?</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item >
+            <number>4</number>
+            <question>
+            </prompt>
+                <narrative>Name three people you look up to as being 'good'</narrative>
+            </question>
+            <prompt>
+                <scripture>1 Peter 2:21 "For God called you to do good... He is your example, and you must follow in his steps".</scripture>
+                <narrative>We believe that Christ demonstrated how we are to live, as those who follow Him we are called to be like him. So too, we can learn from the lives of others in scripture and fellow Christians.</narrative>
+        </codelist-item>
+        <codelist-item >
+            <number>Why do we teach children to be 'good'?</number>
+            <question>
+                <scripture>1 Timothy 6:18-19 "Command them to do good, to be rich in good deeds, and to be generous and willing to share. In this way they will lay up treasure for themselves as a firm foundation for the coming age, so that they may take hold of the life that is truly life".</scripture>
+                <narrative>Not only should we teach children, but part of being a discipleship is learning to be good. To follow in the footsteps of Christ, to build God's kingdom and share the love of God with all.</narrative>
+            </question>
+            <prompt>
+                <narrative></narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item >
+            <number>6</number>
+            <question>
+                <narrative>What is the opposite of goodness?</narrative>
+            </question>
+            <prompt>
+                <scripture>John 10:10 "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.</scripture>
+                <narrative>Scripture tells us to overcome evil with good (Romans 12:21).Evil is what steals, kills and destroys.</narrative>
+            </prompt>
+        </codelist-item>
+    </codelist-items>
+</codelist>
