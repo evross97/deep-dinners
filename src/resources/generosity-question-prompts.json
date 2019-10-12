@@ -1,0 +1,74 @@
+{
+  "@session": "Generosity",
+  "@lang": "en",
+  "metadata": {
+    "session": {
+      "narrative": "Generosity"
+    },
+    "description": {
+      "narrative": "Links to session 3 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin."
+    }
+  },
+  "codelist-items": [
+    {
+      "number": "1",
+      "question": {
+        "narrative": "What gift of generosity has impacted you the most?"
+      },
+      "prompt": {
+        "scripture": "Luke 19:5 \"[Jesus]said to him 'Zacchaeus, come down immediately. I must stay at your house today.' So he came down at once and welcomed him gladly\".",
+        "narrative": "God is infinitely generous to us, in the example of Zacchaeus he is impacted by Jesus' generous and underserved friendship. In response Zacchaeus' heart is changed and he come to love and serve the Lord."
+      }
+    },
+    {
+      "number": "2",
+      "question": {
+        "narrative": "What are the personal benefits to being generous?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "3",
+      "question": {
+        "narrative": "How much generosity do you receive per week?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "4",
+      "question": {
+        "narrative": "What can you be generous in?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "5",
+      "question": {
+        "narrative": "Is there such a thing as being too generous?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    },
+    {
+      "number": "6",
+      "question": {
+        "narrative": "Are there any selfless good deeds?"
+      },
+      "prompt": {
+        "scripture": "TBA",
+        "narrative": "TBA"
+      }
+    }
+  ]
+}

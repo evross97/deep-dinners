@@ -1,6 +1,5 @@
 import React from "react";
 import { Button, Form, FormGroup, Label, Input } from "reactstrap";
-import questions from "../resources/question-prompts.json";
 
 const CreateJoinScreen = () => {
   return (
