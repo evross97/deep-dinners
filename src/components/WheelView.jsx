@@ -7,37 +7,37 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 const WheelView = () => {
     const wheelItems = [
         {
-            id:'1',
+            id:1,
             icon: <FontAwesomeIcon icon={faCoffee} />,
             question: 'Is there such a thing as perfect love?'
         },
         {
-            id:'2',
+            id:2,
             icon: <FontAwesomeIcon icon={faCoffee}/>,
             question: 'What gift of generosity has impacted you the most?'
         },
         {
-            id:'3',
+            id:3,
             icon: <FontAwesomeIcon icon={faCoffee}/>,
             question: 'Do you like tea?'
         },
         {
-            id:'4',
+            id:4,
             icon: <FontAwesomeIcon icon={faCoffee}/>,
             question: 'Do you like tea?'
         },
         {
-            id:'5',
+            id:5,
             icon: <FontAwesomeIcon icon={faCoffee}/>,
             question: 'Do you like tea?'
         },
         {
-            id:'6',
+            id:6,
             icon: <FontAwesomeIcon icon={faCoffee}/>,
             question: 'Do you like tea?'
         },
         {
-            id:'7',
+            id:7,
             icon: <FontAwesomeIcon icon={faCoffee}/>,
             question: 'Do you like tea?'
         },
