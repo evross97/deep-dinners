@@ -9,10 +9,10 @@
       </metadata>
     <codelist-items>
         <codelist-item>
+            <number>1</number>
             <question>
-                <number>1</number>
+                <narrative>How can we become free?</narrative>
             </question>
-            <narrative>How can we become free?</narrative>
             <prompt>
                 <scripture>Romans 5:1 "It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery"</scripture>
                 <narrative>Scripture tells us that true freedom can only be found in Christ. That through His death and resurrection we have been freed from the law of sin and death - set free from judgement and the need to prove our worth.</narrative>
