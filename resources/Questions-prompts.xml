@@ -1,11 +1,11 @@
 <codelist question="Goodness" xml:lang="en" >
     <metadata>
-        <question>
+        <title>
             <narrative>Goodness</narrative>
-        </question>
-        <prompt>
+        </title>
+        <description>
             <narrative>Links to session 1 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin.<narrative>
-        </prompt>
+        </description>
       </metadata>
     <codelist-items>
         <codelist-item >
