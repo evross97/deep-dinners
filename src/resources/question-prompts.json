@@ -1,0 +1,74 @@
+{
+  "@question": "Goodness",
+  "@lang": "en",
+  "metadata": {
+    "title": {
+      "narrative": "Goodness"
+    },
+    "description": {
+      "narrative": "Links to session 1 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin."
+    }
+  },
+  "codelist-items": [
+    {
+      "number": "1",
+      "question": {
+        "narrative": "Is there such a thing as perfect love?"
+      },
+      "prompt": {
+        "scripture": "1 John 4:7 and 18 \"God is love... There is no fear in love. But perfect love drives out fear, because fear has to do with punishment\".",
+        "narrative": "Scripture tells us that God is love, and that this love is perfect. It never lets us down, never forgets never diminishes but is ever strong and ever lasting. We have nothing to fear."
+      }
+    },
+    {
+      "number": "2",
+      "question": {
+        "narrative": "What is goodness?"
+      },
+      "prompt": {
+        "scripture": "Micah 6:8 \"He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God\".",
+        "narrative": "Scripture lays out for us what being 'good' looks like. As we replciate God's heart for the world we are to be just, merciful and humble in all ways with all people."
+      }
+    },
+    {
+      "number": "3",
+      "question": {
+        "narrative": "How would you convince a jury that you are a good person?"
+      },
+      "prompt": {
+        "scripture": "James 2:18 \"But someone will say, 'You have faith; I have deeds.' Show me your faith without deeds, and I will show you my faith by my deeds\".",
+        "narrative": "Scripture challenges us that there needs to be a practical outpouring of our faith in our lives. Can you demonstrate how the goodness of God is overflowing in your life to others?"
+      }
+    },
+    {
+      "number": "4",
+      "question": {
+        "narrative": "Name three people you look up to as being 'good'"
+      },
+      "prompt": {
+        "scripture": "1 Peter 2:21 \"For God called you to do good... He is your example, and you must follow in his steps\".",
+        "narrative": "We believe that Christ demonstrated how we are to live, as those who follow Him we are called to be like him. So too, we can learn from the lives of others in scripture and fellow Christians."
+      }
+    },
+    {
+      "number": "Why do we teach children to be 'good'?",
+      "question": {
+        "scripture": "1 Timothy 6:18-19 \"Command them to do good, to be rich in good deeds, and to be generous and willing to share. In this way they will lay up treasure for themselves as a firm foundation for the coming age, so that they may take hold of the life that is truly life\".",
+        "narrative": "Not only should we teach children, but part of being a discipleship is learning to be good. To follow in the footsteps of Christ, to build God's kingdom and share the love of God with all."
+      },
+      "prompt": {
+        "narrative": []
+      }
+    },
+    {
+      "number": "6",
+      "question": {
+        "narrative": "What is the opposite of goodness?"
+      },
+      "prompt": {
+        "scripture": "John 10:10 \"The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.",
+        "narrative": "Scripture tells us to overcome evil with good (Romans 12:21).Evil is what steals, kills and destroys."
+      }
+    }
+  ]
+}
