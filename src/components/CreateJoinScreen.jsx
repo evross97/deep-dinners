@@ -5,11 +5,11 @@ const CreateJoinScreen = () => {
   return (
     <Form>
       <FormGroup>
-        <Label for="exampleEmail">Email</Label>
+        <Label for="createGame">Create Game</Label>
         <Input
           type="email"
           name="email"
-          id="exampleEmail"
+          id="createGame"
           placeholder="with a placeholder"
         />
       </FormGroup>
@@ -22,6 +22,7 @@ const CreateJoinScreen = () => {
           placeholder="password placeholder"
         />
       </FormGroup>
+      <Button>Submit</Button>
     </Form>
   );
 };
