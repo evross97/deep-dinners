@@ -2,9 +2,10 @@ import React from "react";
 import Wheel from "./Wheel";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCoffee } from "@fortawesome/free-solid-svg-icons";
-import goodnessQuestions from "../resources/goodness-question-prompts.json";
+import randomiseQuestions from "../scripts/randomiseQuestions";
 
 const WheelView = () => {
+  console.log(randomiseQuestions());
   const wheelItems = [
     {
       id: "1",
