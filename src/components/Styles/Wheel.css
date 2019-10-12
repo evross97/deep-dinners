@@ -73,7 +73,7 @@
 
 .wheel.spinning {
     transition: transform var(--spinning-duration);
-    transform: rotate(calc(var(--nb-turn) * 360deg + (-360deg * var(--selected-item) / var(--nb-item, 1))));
+    transform: rotate(calc(var(--nb-turn) * 360deg + (-360deg * ((var(--selected-item)) - 1) / var(--nb-item, 1))));
 }
 
 /* Centre de la roue = rond blanc au centre */
