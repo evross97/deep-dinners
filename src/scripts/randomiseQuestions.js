@@ -9,7 +9,7 @@ function randomiseQuestions() {
   const generosityQuestion = generosityQuestions["codelist-items"][0];
   const trustQuestion = trustQuestions["codelist-items"][0];
 
-  return [goodnessQuestion, freedomQuestion, generosityQuestion, trustQuestion];
+  return { goodnessQuestion, freedomQuestion, generosityQuestion, trustQuestion };
 }
 
 export default randomiseQuestions;

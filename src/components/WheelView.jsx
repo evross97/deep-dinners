@@ -1,49 +1,60 @@
 import React from "react";
 import Wheel from "./Wheel";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCoffee } from "@fortawesome/free-solid-svg-icons";
+import {
+  faHandHoldingHeart,
+  faHandRock,
+  faLeaf,
+  faHandshake,
+  faLaughBeam,
+  faPuzzlePiece,
+  faThumbsUp
+} from '@fortawesome/free-solid-svg-icons'
 import randomiseQuestions from "../scripts/randomiseQuestions";
 
 const WheelView = () => {
-  console.log(randomiseQuestions());
+  const questions = randomiseQuestions()
+  console.log(questions)
   const wheelItems = [
     {
-      id: "1",
-      icon: <FontAwesomeIcon icon={faCoffee} />,
-      question: "Is there such a thing as perfect love?"
+      id: '1',
+      icon: <FontAwesomeIcon icon={faThumbsUp} size={"3x"} />,
+      question: questions.goodnessQuestion.question.narrative
     },
     {
-      id: "2",
-      icon: <FontAwesomeIcon icon={faCoffee} />,
-      question: "What gift of generosity has impacted you the most?"
+      id: '2',
+      icon: <FontAwesomeIcon icon={faHandshake} size={"3x"} />,
+      question: questions.trustQuestion.question.narrative
     },
     {
-      id: "3",
-      icon: <FontAwesomeIcon icon={faCoffee} />,
-      question: "Do you like tea?"
+      id: '3',
+      icon: <FontAwesomeIcon icon={faHandHoldingHeart} size={"3x"} />,
+      question: questions.generosityQuestion.question.narrative
     },
     {
-      id: "4",
-      icon: <FontAwesomeIcon icon={faCoffee} />,
-      question: "Do you like tea?"
+      id: '4',
+      icon: <FontAwesomeIcon icon={faHandRock} size={"3x"} />,
+      question: questions.freedomQuestion.question.narrative
     },
     {
-      id: "5",
-      icon: <FontAwesomeIcon icon={faCoffee} />,
-      question: "Do you like tea?"
+      id: '5',
+      icon: <FontAwesomeIcon icon={faPuzzlePiece} size={"3x"} />,
+      question: 'Where do you find your identity?'
     },
     {
-      id: "6",
-      icon: <FontAwesomeIcon icon={faCoffee} />,
-      question: "Do you like tea?"
+      id: '6',
+      icon: <FontAwesomeIcon icon={faLeaf} size={"3x"} />,
+      question: 'What makes you feel alive?'
     },
     {
-      id: "7",
-      icon: <FontAwesomeIcon icon={faCoffee} />,
-      question: "Do you like tea?"
-    }
-  ];
-  return <Wheel items={wheelItems} />;
+      id: '7',
+      icon: <FontAwesomeIcon icon={faLaughBeam} size={"3x"} />,
+      question: 'How do you know if you are happy?'
+    },
+  ]
+  return (
+    <Wheel items={wheelItems} />
+  );
 };
 
 export default WheelView;
