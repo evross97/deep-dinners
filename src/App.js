@@ -1,13 +1,19 @@
-import React from 'react';
-import Wheel from "./Wheel";
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+
+import logo from "./logo.svg";
+import "./App.css";
+import CreateJoinScreen from "../src/components/CreateJoinScreen";
 
 function App() {
-    const places = ["1","2","3"];
   return (
-    <div className="App">
-      <Wheel items={places} />
-    </div>
+    <Router>
+      <Switch>
+        <Route path="/join">
+          <CreateJoinScreen />
+        </Route>
+      </Switch>
+    </Router>
   );
 }
 
