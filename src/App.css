@@ -1,13 +1,25 @@
 .App {
   text-align: center;
+  background-color: rgb(254, 197, 37);
 }
 
 .App-logo {
   height: 40vmin;
 }
 
+h1 {
+  color: rgb(62,127,205) !important;
+  text-align: center;
+  font-size: 3.5rem !important;
+}
+
+.wheel-container{
+  max-width: 80% !important;
+  max-height: 80% !important;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: rgb(254, 197, 37);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
