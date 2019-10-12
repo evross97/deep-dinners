@@ -1,0 +1,21 @@
+<codelist session="Life" xml:lang="en" >
+    <metadata>
+        <session>
+            <narrative>Life</narrative>
+        </session>
+        <description>
+            <narrative>Links to session 6 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin.<narrative>
+        </description>
+      </metadata>
+    <codelist-items>
+        <codelist-item>
+            <number>1</number>
+            <question>
+                <narrative>What makes you feel alive?</narrative>
+            </question>
+            <prompt>
+                <scripture>John 10:10 "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full".</scripture>
+                <narrative>Jesus death and resurrection means that we get to live life to the full, the bondage of sin is broken. As we are transformed into the likeness of Christ we become more fully who we were made to be.</narrative>
+            </prompt>
+        </codelist-item>
+    </codelist>
