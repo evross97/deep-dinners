@@ -26,19 +26,20 @@ export default class Wheel extends Component {
     render() {
         const { selectedItem } = this.state;
         const { items } = this.props;
-
+        console.log(selectedItem);
         const wheelVars = {
             '--nb-item': items.length,
             '--selected-item': selectedItem,
         };
         const spinning = selectedItem !== null ? 'spinning' : '';
+        console.log("spinning:", spinning);
 
         return (
             <div className="wheel-container">
                 <div className={`wheel ${spinning}`} style={wheelVars} onClick={this.selectItem}>
                     {items.map((item, index) => (
                         <div className="wheel-item" key={index} style={{ '--item-nb': index }}>
-                            {item}
+                            {item.icon}
                         </div>
                     ))}
                 </div>
