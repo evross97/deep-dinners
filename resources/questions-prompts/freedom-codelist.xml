@@ -1,0 +1,72 @@
+<codelist session="Freedom" xml:lang="en" >
+    <metadata>
+        <session>
+            <narrative>Freedom</narrative>
+        </session>
+        <description>
+            <narrative>Links to session 4 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin.<narrative>
+        </description>
+      </metadata>
+    <codelist-items>
+        <codelist-item>
+            <number>1</number>
+            <question>
+            </question>
+            <narrative>How can we become free?</narrative>
+            <prompt>
+                <scripture>Romans 5:1 "It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery"</scripture>
+                <narrative>.</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item>
+            <number>2</number>
+            <question>
+                <narrative>What is stopping you from being free?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item>
+            <number>3</number>
+            <question>
+                <narrative>How is your freedom impacted by your current lifestyle?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item>
+            <number>4</number>
+            <question>
+            </prompt>
+                <narrative>Does religion limit people's freedom?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+        </codelist-item>
+        <codelist-item>
+            <number>5</number>
+            <question>
+                <narrative>What's the relationship between freedom and responsibility?</narrative>
+            </question>
+            <prompt>
+                <scripture>TBA</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+        <codelist-item
+            <number>6</number>
+            <question>
+                <narrative>What does it look like to be truly free?</narrative>
+            </question>
+            <prompt>
+                <scripture>Romans 5:1 "It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery".</scripture>
+                <narrative>TBA</narrative>
+            </prompt>
+        </codelist-item>
+    </codelist-items>
+</codelist>
