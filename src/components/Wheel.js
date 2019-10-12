@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import QuestionModal from './QuestionModal';
 import './Styles/Wheel.css';
 
 export default class Wheel extends Component {
@@ -26,16 +27,33 @@ export default class Wheel extends Component {
     render() {
         const { selectedItem } = this.state;
         const { items } = this.props;
-        console.log(selectedItem);
+        const isOpen = selectedItem ? true : false;
         const wheelVars = {
             '--nb-item': items.length,
             '--selected-item': selectedItem,
         };
         const spinning = selectedItem !== null ? 'spinning' : '';
-        console.log("spinning:", spinning);
+
+        const showButton = () => {
+            if (selectedItem !== null) { 
+                // setTimeout(() => {return buttonShowing = true}, 3000)
+                return true;
+            } 
+            else return;      
+        }
+
+        console.log('selectedItem', selectedItem)
+
+        const selectedItemData = items.filter(item => item.id === selectedItem );
+
+        console.log('items', items);
+        console.log('selectedItemData', selectedItemData);
+
+        // const showButton = shouldShowButton
 
         return (
-            <div className="wheel-container">
+            <>
+            <div className="wheel-container" style={{'margin-top': '20px'}}>
                 <div className={`wheel ${spinning}`} style={wheelVars} onClick={this.selectItem}>
                     {items.map((item, index) => (
                         <div className="wheel-item" key={index} style={{ '--item-nb': index }}>
@@ -44,6 +62,8 @@ export default class Wheel extends Component {
                     ))}
                 </div>
             </div>
+            {selectedItem && <QuestionModal isOpen={isOpen} showButton={showButton(selectedItem)} selectedItem={selectedItemData[0]}/>}
+            </>
         );
     }
 }

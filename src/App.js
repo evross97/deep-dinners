@@ -10,11 +10,14 @@ function App() {
     <Router>
       <Switch>
         <Route path="/join">
-          <CreateJoinScreen />
+          <CreateJoinScreen style={"blue-background"} />
         </Route>
         <Route path="/spin">
+          <h1>Deep Dinners</h1>
+          <br />
           <WheelView />
         </Route>
+
       </Switch>
     </Router>
   );

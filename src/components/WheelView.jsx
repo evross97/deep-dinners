@@ -1,5 +1,6 @@
 import React from "react";
 import Wheel from "./Wheel";
+import "./Styles/WheelView.css"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faHandHoldingHeart,
