@@ -1,5 +1,6 @@
 import React from "react";
 import Wheel from "./Wheel";
+import "./Styles/WheelView.css"
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 
@@ -8,7 +9,7 @@ const WheelView = () => {
     const wheelItems = [
         {
             id:'1',
-            icon: <FontAwesomeIcon icon={faCoffee} />,
+            icon: <FontAwesomeIcon icon={faCoffee} size="lg"/>,
             question: 'Is there such a thing as perfect love?'
         },
         {
