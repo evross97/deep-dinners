@@ -1,0 +1,21 @@
+<codelist session="Fulfilment" xml:lang="en" >
+    <metadata>
+        <session>
+            <narrative>Fulfilment</narrative>
+        </session>
+        <description>
+            <narrative>Links to session 5 of Life Explored (https://www.ceministries.org/Groups/274684/Courses/Life_Explored/Life_Explored.aspx). Contains questions and relevant prompts for the admin.<narrative>
+        </description>
+      </metadata>
+    <codelist-items>
+        <codelist-item>
+            <number>1</number>
+            <question>
+                <narrative>Where do you find your identity?</narrative>
+            </question>
+            <prompt>
+                <scripture>John 1:12 "Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God".</scripture>
+                <narrative>Do you know that your identity is found in God? That you are a child of the king? Whatever your life circumstances your identity will never change.</narrative>
+            </prompt>
+        </codelist-item>
+    </codelist>
